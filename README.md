@@ -1,7 +1,7 @@
 <H1>STAR-DB</H1>
 
-- Axios
+- React,
+- Fetch API,
+- Star Wars API,
 - Superagent
-- Got
-- Request
-- Reqwest
+
