@@ -3,5 +3,5 @@
 - React,
 - Fetch API,
 - Star Wars API,
-- Superagent
+
 
